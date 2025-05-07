@@ -6,7 +6,7 @@ This Android app connects lost items with their owners. Users can report lost or
 
 ## Features
 - **Item Listings**: Post lost/found items with descriptions and location details.
-- **View All Listing: View all of the lost and found posts.
+- **View All Listings**: View all of the lost and found posts.
 - **Item Removal**: Remove items once they have been returned to their owners.
 - **SQLite Database**: Store item data locally on the device.
 
